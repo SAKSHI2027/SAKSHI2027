@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi2027&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2027" /> </p>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **full stack web development**
 
-- 🌱 I’m currently learning **BE Computer Science**
+- 🌱 I’m currently learning **BE Computer Science Specialization in IOT and BLOCKCHAIN**
 
 - 👯 I’m looking to collaborate on **many related to Web development work.**
 
-- 💬 Ask me about **anything related my projrct**
+- 💬 Ask me about **anything related my project**
 
 - 📫 How to reach me **sakshimaurya447@gmail.com**
 
