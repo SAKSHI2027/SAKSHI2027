@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BE Computer Science Specialization in IOT and BLOCKCHAIN**
 
-- 👯 I’m looking to collaborate on **many related to Web development work.**
+- 👯 I’m looking to collaborate on **anything related to Web development work.**
 
 - 💬 Ask me about **anything related my project**
 
